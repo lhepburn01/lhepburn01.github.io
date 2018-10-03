@@ -1,0 +1,45 @@
+header{
+	background-image: url(Images/headerflower.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+}
+
+nav{
+	background-color: #B6690050;
+
+}
+
+nav .row .col:hover{
+	background-color: yellow;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 300px;
+}
+h1{
+	color:#769E23;
+}
+
+h3{
+	color:#769E23;
+}
+a:visited{
+	color:#B6690050; 
+}
+section h1{
+	text-align: center;
+	margin: 0;
+	vertical-align: middle;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+.reachme{
+	width: 20%;
+
+}
