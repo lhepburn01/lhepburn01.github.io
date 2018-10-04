@@ -1,9 +1,12 @@
 header{
-	background-image: url(Images/headerflower.jpg);
+	background-image: url(Images/borderlook.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
 	height: 400px;
+}
+header h1{
+	font-size: 400%
 }
 
 nav{
